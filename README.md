@@ -1,4 +1,4 @@
-# "Framework for Anomaly Detection in Surveillance Videos"
+# "Anomaly Detection in Surveillance Videos Framework"
 
 ## Dependencies
 * Python 3.6
